@@ -1,2 +1,3 @@
-# peatwell
-Peatwell — a living public yard. Notes marked public go on the wall. The hour turns itself.
+# Peatwell
+
+A small public yard that turns with the hour. Sign in. Keep a note private, or mark it public so it sits on the wall.
